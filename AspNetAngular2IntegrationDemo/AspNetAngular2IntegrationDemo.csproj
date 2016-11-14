@@ -110,7 +110,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Views\web.config" />
     <Content Include="packages.config" />
     <Content Include="ClientApp\.editorconfig" />
     <Content Include="ClientApp\.gitignore" />
@@ -130,7 +129,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Content\" />
-    <Folder Include="Views\Home\" />
   </ItemGroup>
   <ItemGroup>
     <TypeScriptCompile Include="ClientApp\e2e\app.e2e-spec.ts" />
